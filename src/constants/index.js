@@ -203,7 +203,7 @@ import {
         "A Paint application made by HTML , CSS , JS allowing users to create and draw intuitively .",
       tags: [
         {
-          name: "HTML",
+          name: "CANVAS",
           color: "blue-text-gradient",
         },
         {
@@ -211,7 +211,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "TAILWIND",
           color: "pink-text-gradient",
         },
       ],
