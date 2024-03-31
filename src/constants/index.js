@@ -240,16 +240,16 @@ import {
       source_code_link: "https://golf-club-djqo.vercel.app/",
     },
     {
-      name: "Flappy Bird",
+      name: "Obys Agency",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A very graphic intense website , with modern animations with use of modern libraries with smooth scrolling and great user experience",
       tags: [
         {
-          name: "HTML",
+          name: "SHERY JS",
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "LOCOMOTIVE",
           color: "green-text-gradient",
         },
         {
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://flappy-bird-weld.vercel.app/",
+      source_code_link: "https://obys-agency-lime.vercel.app/"
     },
   ];
   
