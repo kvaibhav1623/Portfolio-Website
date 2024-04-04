@@ -219,9 +219,9 @@ import {
       source_code_link: "https://whiteboard-sage-two.vercel.app/",
     },
     {
-      name: "GOLF CLUB",
+      name: "Two-Good",
       description:
-        "A golf club website powered by HTML CSS JS and GSAP for modern animations and user experience.",
+        "A marketplace website powered by HTML CSS JS and GSAP for modern animations and user experience.",
       tags: [
         {
           name: "HTML",
@@ -237,7 +237,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://golf-club-djqo.vercel.app/",
+      source_code_link: "https://two-good-pearl.vercel.app/",
     },
     {
       name: "Obys Agency",
