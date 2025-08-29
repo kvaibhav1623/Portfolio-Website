@@ -116,14 +116,14 @@ import {
   
   const experiences = [
     {
-      title: "Intern",
-      company_name: "Pine Labs",
+      title: "Software Engineer",
+      company_name: "ESS",
       icon: starbucks,
       iconBg: "#383E56",
       date: "",
       points: [
-        "Developed a custom webpage from scratch for the company, showcasing its products, services, and brand identity.",
-        "Utilized HTML, CSS, and JavaScript to create an intuitive and visually appealing user interface that enhances user experience.",
+        "Engineered and deployed EVA, an intelligent chatbot powered by Lang Chain, to streamline ERP processes, enhancing usability and reducing task completion time by 60%.",
+        "Designed and integrated robust APIs, enabling seamless data exchange between EVA and ERP systems for efficient workflow automation",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
